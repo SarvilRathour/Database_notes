@@ -20,3 +20,4 @@ CREATE TABLE person(
   gender VARCHAR(50) NOT NULL,
   date_of_birth DATE NOT NULL
 );
+
